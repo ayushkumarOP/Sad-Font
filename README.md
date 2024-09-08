@@ -14,3 +14,7 @@ Incorporating sad facial cues directly into some letters further emphasizes the 
 The use of soft strokes rather than sharp, rigid lines helps maintain a delicate and emotional appearance.
 ### Spacing and Alignment: 
 Thoughtful spacing and slightly irregular alignment contribute to the overall feeling of disquiet, as perfectly aligned text would feel too orderly and contradict the intended mood.
+
+# Purpose and Vision:
+The creation of this sad font is rooted in the belief that design can transcend aesthetics to touch the human spirit. It aims to provide a tool for those moments when words alone are not enough, making it easier for people to share their feelings and connect on a deeper level. In a world that often rushes past the nuances of human emotions, this font stands as a reminder of the power of empathy and the importance of feeling seen and understood.
+Whether you’re crafting a reflective piece, raising awareness for a cause, or simply expressing a personal moment of sadness, this font offers a unique way to make your message more impactful and heartfelt. It’s more than just a typeface—it’s a means of emotional expression.

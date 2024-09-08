@@ -4,13 +4,13 @@ The need to communicate sadness to other people or text is important even when w
 
 # Design Decisions:
 Several key design decisions were made to ensure the font conveys a sense of sadness:
-## Rounded Edges and Drooping Lines: 
+### Rounded Edges and Drooping Lines: 
 To evoke a gentle, downcast feeling, the font features rounded edges and drooping lines that mimic the natural posture of sadness.
-## Subtle Curves and Asymmetry: 
+### Subtle Curves and Asymmetry: 
 Incorporating subtle curves and slight asymmetry adds a touch of imperfection, reflecting the natural, unpolished state of human emotions.
-## Integrated Sad Faces: 
+### Integrated Sad Faces: 
 Incorporating sad facial cues directly into some letters further emphasizes the emotional theme, making the font uniquely expressive.
-## Soft Strokes: 
+### Soft Strokes: 
 The use of soft strokes rather than sharp, rigid lines helps maintain a delicate and emotional appearance.
-## Spacing and Alignment: 
+### Spacing and Alignment: 
 Thoughtful spacing and slightly irregular alignment contribute to the overall feeling of disquiet, as perfectly aligned text would feel too orderly and contradict the intended mood.
